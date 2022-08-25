@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DominikGalenza
 - 👀 I’m interested in games and music
 - 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on game development projects
 - 📫 How to reach me: dominik.galenza@gmail.com
 
 <!---
